@@ -3,6 +3,10 @@ Decision Tree with Multithread usage for breast cancer dataset from Kaggle.com
 
 Decision Tree with Multithread usage for breast cancer dataset from Kaggle.com 
 
+about dataset
+
+
+image::https://github.com/mustafademiray/DecisionTree-MultiThread/blob/master/Screenshot_6.jpg[]
 
 program prints on console to tree placement, this is the last version of tree. -paint skillz-
 
