@@ -6,4 +6,4 @@ Decision Tree with Multithread usage for breast cancer dataset from Kaggle.com
 
 program prints on console to tree placement, this is the last version of tree. -paint skillz-
 
-image::https://github.com/mustafademiray/DesicionTree-MultiThread/blob/master/agac.jpg[]
+image::https://github.com/mustafademiray/DecisionTree-MultiThread/blob/master/agac.jpg[]
