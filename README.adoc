@@ -1,4 +1,4 @@
-# DesicionTree-MultiThread
+# DecisionTree-MultiThread
 Decision Tree with Multithread usage for breast cancer dataset from Kaggle.com
 
 Decision Tree with Multithread usage for breast cancer dataset from Kaggle.com 
