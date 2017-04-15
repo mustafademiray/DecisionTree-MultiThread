@@ -27,7 +27,7 @@ public class YazLab2 {
         int birEntropi=0,ikiEntropi=0;
         
         try{
-            CSVReader reader = new CSVReader(new FileReader("C:\\Users\\musty\\Desktop\\Yaz_Lab_II_Proje_II\\haberman.txt"));
+            CSVReader reader = new CSVReader(new FileReader("C:\\Users\\username\\Desktop\\Yaz_Lab_II_Proje_II\\haberman.txt"));
             while((nextLine = reader.readNext()) != null){
                 for(
                         i = 0; i < nextLine.length ;i++){
